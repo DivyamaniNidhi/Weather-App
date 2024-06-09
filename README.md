@@ -40,3 +40,8 @@ To run the application locally, follow these steps:
 ## Known Issues and Limitations
 - The application currently does not support autocomplete for city names in the search bar.
 - Due to limitations of the OpenWeatherMap API, some cities may not return accurate or complete weather information.
+
+
+#### Deployment
+
+The application is deployed using Vercel and can be accessed at https://weather-app-nu-sandy-41.vercel.app/.
