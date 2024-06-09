@@ -42,6 +42,6 @@ To run the application locally, follow these steps:
 - Due to limitations of the OpenWeatherMap API, some cities may not return accurate or complete weather information.
 
 
-#### Deployment
+### Deployment
 
 The application is deployed using Vercel and can be accessed at https://weather-app-nu-sandy-41.vercel.app/.
